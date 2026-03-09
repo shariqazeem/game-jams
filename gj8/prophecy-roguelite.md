@@ -32,7 +32,7 @@ Deployed on Cartridge Slot:
 (Native desktop app — run from Godot editor or export binary)
 
 ### Gameplay Video
-
+https://x.com/shariqshkt/status/2030780305104384343?s=20
 
 
 ### How to Play
@@ -49,7 +49,7 @@ Deployed on Cartridge Slot:
 
 ### Twitter
 
-@shariqazeem
+@shariqshkt
 
 ### Team Members
 
