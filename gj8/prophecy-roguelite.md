@@ -32,8 +32,11 @@ Deployed on Cartridge Slot:
 (Native desktop app — run from Godot editor or export binary)
 
 ### Gameplay Video
-https://x.com/shariqshkt/status/2030780305104384343?s=20
+https://youtu.be/R2hYI4Eg_bY
 
+### Trailer
+
+https://x.com/shariqshkt/status/2030780305104384343
 
 ### How to Play
 
