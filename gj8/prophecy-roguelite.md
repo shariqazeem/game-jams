@@ -49,7 +49,8 @@ https://x.com/shariqshkt/status/2030780305104384343?s=20
 
 ### Twitter
 
-@shariqshkt
+[@shariqshkt
+](https://x.com/shariqshkt)
 
 ### Team Members
 
